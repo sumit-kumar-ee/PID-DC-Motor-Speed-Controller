@@ -8,6 +8,9 @@ Modelled the motor physics from first principles and tuned the PID gains manuall
 **Final Gains:** Kp = 100, Ki = 200, Kd = 0
 
 ## Results
+## Scope Results ### Step Response ![Step Response](step_response.png) ### Disturbance Rejection at
+t=3s ![Disturbance](disturbance_rejection.png)
+
 | Metric | Value |
 |--------|-------|
 | Rise Time | ~0.3 seconds |
